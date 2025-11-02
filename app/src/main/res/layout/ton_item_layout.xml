@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="10dp"
+    android:background="@color/white">
+
+    <TextView
+        android:id="@+id/tonItemName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toLeftOf="@id/tonItemDelete"
+        android:textColor="@color/black"
+        android:layout_margin="10dp"
+        android:textSize="18sp"
+        android:text="Ammonium Chloride" />
+
+    <TextView
+        android:id="@+id/tonItemTfJudul"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toLeftOf="@id/tonItemTf"
+        android:layout_alignTop="@id/tonItemTf"
+        android:text="∆Tf : " />
+
+    <TextView
+        android:id="@+id/tonItemTf"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@id/tonItemDelete"
+        android:layout_below="@id/tonItemDelete"
+        android:text="@string/_0_12"
+        android:layout_alignEnd="@id/tonItemDelete"
+        android:layout_marginTop="10dp"/>
+
+    <TextView
+        android:id="@+id/tonItemDelete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/border10dp"
+        android:paddingVertical="5dp"
+        android:paddingHorizontal="8dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@id/tonItemName"
+        android:layout_marginRight="10dp"
+        android:text="@string/delete"
+        android:textColor="@color/black"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="10dp" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_below="@id/tonItemName"
+        android:layout_alignLeft="@id/tonItemName"
+        android:layout_alignStart="@id/tonItemName"
+        android:layout_marginBottom="10dp">
+
+        <Switch
+            android:id="@+id/tonItemSwitch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginRight="10dp"
+            android:text="" />
+
+        <EditText
+            android:id="@+id/tonItemAmmount"
+            android:layout_width="70dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/border10dp"
+            android:layout_gravity="center"
+            android:ems="10"
+            android:textSize="16sp"
+            android:inputType="numberDecimal"
+            android:paddingHorizontal="8dp"
+            android:paddingVertical="5dp"/>
+
+        <TextView
+            android:id="@+id/tonItemSatuan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="5dp"
+            android:textColor="@color/black"
+            android:text="@string/percentage" />
+    </LinearLayout>
+
+</RelativeLayout>

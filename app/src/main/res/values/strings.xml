@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ToniFlin</string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="_0_12">0.12</string>
+    <string name="gram">gram</string>
+    <string name="tf_x_c">⅀(∆Tf x C) =</string>
+    <string name="_0_52">0.52</string>
+    <string name="adjust">Adjust</string>
+    <string name="percentage">%</string>
+</resources>

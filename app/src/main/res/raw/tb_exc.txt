@@ -1,0 +1,485 @@
+2-Kloroprokain hidroklorida	0.1
+Adenosin fosfat	0.23
+Adifenin hidroklorida	0.12
+Adrenalon hidroklorida	0.15
+Akriflavin	0.05
+Alfaprodin hidroklorida	0.1
+Amdinosilin	0.06
+Amfetamin fosfat	0.19
+Amidoksil benzoat	0.11
+Amidrikain hidroklorida	0.13
+Amidrikain nitrat	0.1
+Amikasin	0.03
+Aminakrin hidroklorida	0.09
+Aminofilin	0.1
+Amitriptilin hidroklorida	0.1
+Amobarbital natrium	0.14
+Amonium fosfat, dibasa	0.31
+Amonium karbonat	0.4
+Amonium klorida	0.605
+Amonium laktat	0.18
+Amonium nitrat	0.4
+Amonium sulfat	0.31
+Ampisilin natrium	0.09
+Amprotropin fosfat	0.1
+Anilaridin hidroklorida	0.1
+Antazolin fosfat	0.11
+Antazolin hidroklorida	0.13
+Antipirin	0.09
+Arekolin hidrobromida	0.15
+Arginin glutamat	0.09
+Arsen trioksida	0.16
+Asam aminoasetat	0.23
+Asam aminokaproat	0.14
+Asam askorbat	0.1
+Asam borat	0.28
+Asam laktat	0.23
+Asam nikotinat	0.14
+Asam p-aminohipurat	0.07
+Asam sitrat	0.09
+Asam tanat	0.01
+Asam tartrat	0.14
+Asetasolamida natrium	0.13
+Asetilsistein	0.11
+Asetilsulfonamida natrium	0.13
+Asiklovir natrium	0.13
+Atrakurium besilat	0.03
+Atropin metilnitrat	0.1
+Atropin sulfat	0.07
+Aurotioglukosa	0.01
+Azlosilin natrium	0.07
+Barbital natrium	0.17
+Basi(II) glukonat	0.08
+Basitrasin	0.02
+Benoksinat hidroklorida	0.1
+Benzalkonium klorida	0.09
+Benzetonium klorida	0.02
+Benzil alkohol	0.09
+Benzilpenisilin natrium	0.1
+Benzkuinamida hidroklorida	0.07
+Benzpirinium bromida	0.11
+Benztropin mesilat	0.11
+Besi(III) amonium sitrat, hijau	0.09
+Besi(III) kakodilat	0.04
+Betanekol klorida	0.22
+Betaxolol	0.09
+Betazol hidroklorida	0.29
+Biru evan	0.03
+Biru tripan	0.15
+Bismut kalium tartrat	0.05
+Bismut natrium tartrat	0.07
+Bretilium tosilat	0.08
+Bromfeniramin maleat	0.05
+Bromodifenhidramin hidroklorida	0.1
+Bupivakain hidroklorida	0.09
+Butabarbital natrium	0.15
+Butakain sulfat	0.11
+Butetamin format	0.14
+Butetamin hidroklorida	0.14
+Deferoksamin mesilat	0.04
+Dekametonium bromida	0.14
+Deksametason natrium fosfat	0.09
+Deksklorfeniramin maleat	0.08
+Dekspantenol	0.1
+Dekstroamfetamin fosfat	0.14
+Dekstroamfetamin hidroklorida	0.19
+Dekstroamfetamin sulfat	0.13
+Dekstrosa	0.09
+Dekstrosa, anhidrat	0.1
+Demekarium bromida	0.06
+Diatrizoat natrium	0.04
+Dibukain hidroklorida	0.07
+Dibutolin sulfat	0.09
+Dietanolamin	0.17
+Dietilkarbamazin sitrat	0.08
+Difemanil metilsulfat	0.08
+Difenhidramin hidroklorida	0.15
+Difenidol hidroklorida	0.09
+Difilin	0.05
+Dihidrokodeinona enol asetat hidroklorida	0.08
+Dihidrostreptomisin sulfat	0.03
+Diklomin hidroklorida	0.06
+Diklorofenarsin hidroklorida	0.13
+Diklosasilin natrium monohidrat	0.31
+Dimetil sulfoksida	0.24
+Dimetinden maleat	0.07
+Dinatrium edetat	0.13
+Dinatrium moksalaktam	0.09
+Dinatrium tikarsilin	0.11
+Diperodon hidroklorida	0.07
+Dipiron	0.11
+Dipivefrin hidroklorida	0.09
+Disiklomin hidroklorida	0.1
+Dobutamin hidroklorida	0.1
+Doksapram hidroklorida	0.07
+Doksisiklin hiklat	0.07
+Dopamin hidroklorida	0.17
+Edrofonium klorida	0.17
+Efedrin hidroklorida	0.16
+Efedrin laktat	0.14
+Efedrin sulfat	0.13
+Ekotiopat iodida	0.09
+Emetin hidroklorida	0.06
+Enkainida hidroklorida	0.08
+Epinefrin bitartrat	0.09
+Epinefrin hidroklorida	0.16
+Ergonovin maleat	0.08
+Eritromisin glukoheptonat	0.04
+Eritromisin laktobionat	0.04
+Etanol	0.37
+Etanol, dehidrat	0.4
+Etaverin hidroklorida	0.07
+Etidokain hidroklorida	0.1
+Etilendiamin	0.25
+Etilhidrokuprein hidroklorida	0.09
+Etilmorfin hidroklorida	0.08
+Etilnorepinefrin hidroklorida	0.14
+Fenakain hidroklorida	0.1
+Fenarson sulfoksilat	0.19
+Fenilbutazon natrium	0.1
+Fenilefrin hidroklorida	0.18
+Fenilefrin tartrat	0.1
+Feniletil alkohol	0.14
+Fenilpropanolamin hidroklorida	0.21
+Fenilpropilmetilamin hidroklorida	0.22
+Fenindamin tartrat	0.1
+Feniramin maleat	0.09
+Fenobarbital natrium	0.13
+Fenol	0.19
+Fentolamin mesilat	0.09
+Fisostigmin salisilat	0.09
+Fisostigmin sulfat	0.07
+Hiosiamin sulfat	0.08
+Imipramin hidroklorida	0.11
+Indigotindisulfonat natrium	0.17
+Iodoftalein natrium	0.09
+Iodopiraset	0.06
+Iodopiraset dietilamin	0.06
+Iopamidol	0.01
+Isoetarin hidroklorida	0.13
+Isometheptena mukat	0.09
+Isoniazid	0.14
+Isopropil alkohol	0.3
+Isoproterenol sulfat	0.07
+Kafein	0.04
+Kalium, alum	0.1
+Kalium antimon tartrat	0.1
+Kalium asetat	0.34
+Kalium benzilpenisilin	0.1
+Kalium fosfat, anhidrat	0.26
+Kalium fosfat, monobasa	0.25
+Kalium iodida	0.2
+Kalium klorat	0.27
+Kalium klorida	0.43
+Kalium nitrat	0.32
+Kalium permanganat	0.22
+Kalium sorbat	0.23
+Kalium sulfat	0.25
+Kalium tiosianat	0.34
+Kalsium probarbital	0.14
+Kalsium aminosalisilat	0.15
+Kalsium dinatrium edetat	0.12
+Kalsium glukonat	0.09
+Kalsium klorida dihidrat	0.29
+Kalsium klorida heksahidrat	0.2
+Kalsium klorida, anhidrat	0.4
+Kalsium laktat	0.13
+Kalsium laktobionat	0.04
+Kalsium levulinat	0.15
+Kalsium pantotenat	0.1
+Kanamisin sulfat	0.04
+Kapreomisin sulfat	0.02
+Karbakol	0.2
+Karbazokroma salisilat	0.21
+Karbenisilin dinatrium	0.11
+Karboksimetil selulosa natrium	0.01
+Ketamin hidroklorida	0.12
+Kinakrin hidroklorida	0.1
+Kinakrin mesilat	0.06
+Kinidin glukonat	0.06
+Kinidin sulfat	0.06
+Kinin bisulfat	0.05
+Kinin dihidroklorida	0.12
+Kinin hidroklorida	0.07
+Kinin urea hidroklorida	0.13
+Kiniofon	0.07
+Klindamisin fosfat	0.04
+Kloramfenikol natrium suksinat	0.07
+Kloramin-T	0.12
+Klordiazepoksida hidroklorida	0.12
+Klorfeniramin maleat	0.08
+Klorobutanol, hidrat	0.134
+Klorofil	0.05
+Klorokin fosfat	0.08
+Klorokin sulfat	0.05
+Klorpromazin hidroklorida	0.05
+Klorsiklizin hidroklorida	0.09
+Klortetrasiklin hidroklorida	0.06
+Klortetrasiklin sulfat	0.07
+Kodein fosfat	0.07
+Kodein hidroklorida	0.08
+Kompleks kalsium streptomisin klorida	0.11
+Kromolin natrium	0.08
+Labetalol hidroklorida	0.01
+laktosa	0.04
+L-Arginin hidroklorida	0.17
+Levallorfan tartrat	0.07
+Levobunolol hidroklorida	0.07
+Levorfanol tartrat	0.06
+Liapolat natrium	0.05
+Lidokain hidroklorida	0.12
+Linkomisin hidroklorida	0.09
+Litium karbonat	0.582
+Litium klorida	0.778
+Lobelin hidroklorida	0.09
+Mafenida hidroklorida	0.15
+Magnesium klorida	0.26
+Magnesium sulfat	0.09
+Magnesium sulfat, anhidrat	0.08
+Manitol	0.09
+Mefenesin	0.1
+Mefentermin sulfat	0.13
+Menadiol natrium difosfat 	0.14
+Menadion natrium bisulfit 	0.11
+Mepivakain hidroklorida 	0.11
+Merah kongo 	0.03
+Merbromin 	0.08
+Merkaptomerin natrium 	0.1
+Merkurofilin	0.07
+Mersalil 	0.06
+Mesoridazin besilat 	0.04
+Metadon hidroklorida 	0.1
+Metakolin bromida 	0.16
+Metakolin klorida 	0.18
+Metamfetamin hidroklorida 	0.2
+Metantelin bromida 	0.08
+Metapirilen hidroklorida 	0.11
+Metaraminol bitartrat 	0.11
+Metdilazin hidroklorida 	0.05
+Metenamin	0.12
+Metilglukamin asetrizoat	0.04
+Metiodal natrium	0.13
+Metisilin natrium	0.09
+Metitural natrium	0.14
+Naepain hidroklorida	0.12
+Nafazolin hidroklorida	0.15
+Nafsilin natrium	0.07
+Nalbufin hidroklorida	0.08
+Nalokson hidroklorida	0.08
+Nalorfin hidroklorida	0.12
+Naltrekson hidroklorida	0.09
+Natrium p-aminosalisilat	0.16
+Natrium antimon tartrat	0.07
+Natrium arsenat, dibasa	0.14
+Natrium asetat	0.26
+Natrium asetat, anhidrat	0.44
+Natrium asetrizoat	0.05
+Natrium askorbat	0.18
+Natrium benzoat	0.23
+Natrium bifosfat monohidrat	0.26
+Natrium bifosfat, anhidrat	0.2
+Natrium bifosfat, dihidrat	0.24
+Natrium bikarbonat	0.38
+Natrium bismut tioglikolat	0.1
+Natrium bisulfit	0.35
+Natrium borat	0.24
+Natrium bromida	0.32
+Natrium folat	0.06
+Natrium fosfat	0.16
+Natrium fosfat, dibasa dihidrat	0.24
+Natrium fosfat, dibasa dodekahidrat	0.12
+Natrium fosfat, kering	0.3
+Natrium hipofosfit	0.35
+Natrium iodida	0.22
+Natrium kakodilat	0.18
+Natrium karbonat, anhidrat	0.4
+Natrium karbonat, monohidrat	0.34
+Natrium klorida	0.576
+Natrium kolistimetat	0.08
+Natrium laktat	0.31
+Natrium lauril sulfat	0.04
+Natrium metabisulfit	0.38
+Natrium nitrat	0.39
+Natrium nitrit	0.48
+Natrium nitroferisianida	0.16
+Natrium propionat	0.35
+Natrium risinoleat	0.06
+Natrium salisilat	0.2
+Natrium sitrat	0.17
+Natrium suksinat	0.18
+Natrium sulfat	0.14
+Natrium sulfat, anhidrat	0.3
+Natrium sulfat, kering	0.37
+Natrium tartrat	0.19
+Natrium tiosulfat	0.18
+Neoarsfenamin	0.22
+Neomisin sulfat	0.06
+Neostigmin bromida	0.12
+Neostigmin metil sulfat	0.1
+Netilmisin sulfat	0.04
+Niketamida	0.1
+Nikotinamida	0.14
+Novobiosin natrium	0.04
+o-Iodohipurat natrium	0.09
+Oksasilin natrium	0.09
+Oksikodon	0.08
+Oksimetazolin hidroklorida	0.12
+Oksimorfon hidroklorida	0.08
+Oksitetrasiklin hidroklorida	0.08
+Oksofenarsin hidroklorida	0.13
+Oleandomisin fosfat	0.03
+Orfenadrin sitrat	0.07
+Pankuronium bromida	0.07
+Papaverin hidroklorida	0.06
+Paraldehida	0.14
+Paretoksikain hidroklorida	0.16
+Pargilin hidroklorida	0.16
+Pentazosin laktat	0.08
+Pentilenetetrazol	0.12
+Pentobarbital natrium	0.14
+Pentolinium tartrat	0.09
+Perak nitrat	0.19
+Perak protein, kuat	0.04
+Perak protein, lemah	0.09
+Petidin hidroklorida 	0.12
+Pilokarpin hidroklorida	0.13
+Pilokarpin nitrat	0.13
+Piperasilin natrium	0.06
+Piperokain hidroklorida	0.12
+Piratiazin hidroklorida	0.09
+Piridokain hidroklorida	0.13
+Piridoksin hidroklorida	0.2
+Piridostigmin bromida	0.12
+Pirilamin maleat	0.1
+Polietilen glikol 300	0.06
+Polietilen glikol 400	0.04
+Polietilen glikol 1500	0.03
+Polietilen glikol 1540	0.1
+Polietilen glikol 4000	0
+Polimiksin B sulfat	0.04
+Polisorbat 80	0.01
+Polivinil alkohol (99% hidroksilat)	0
+Povidon	0
+Pralidoksim klorida 	0.18
+Pramoksin hidroklorida 	0.1
+Prilokain hidroklorida 	0.12
+Probarbital natrium 	0.18
+Prokain hidroklorida 	0.12
+Prokainamida hidroklorida 	0.12
+Proklorperazin edisilat 	0.03
+Promazin hidroklorida 	0.07
+Prometazin hidroklorida 	0.11
+Propanolol hidroklorida 	0.12
+Propantelin bromida 	0.06
+Proparakain hidroklorida 	0.08
+Proplen glikol 	0.25
+Propiomazin hidroklorida 	0.08
+Propoksikain hidroklorida 	0.11
+Raksa(II) klorida 	0.07
+Raksa(II) sianida 	0.08
+Ranitidin hidroklorida 	0.1
+Rasefedrin hidroklorida 	0.17
+Resorsinol 	0.16
+Riboflavin natrium fosfat 	0.04
+Ritodrin hidroklorida 	0.11
+Rolitetrasiklin 	0.06
+Rose bengal 	0.04
+Rose bengal B 	0.04
+Saralasin asetat 	0.05
+Sefaloridin 	0.04
+Sefalotin natrium 	0.09
+Sefamandol nafat 	0.07
+Sefapiridin natrium 	0.07
+Sefazolin natrium 	0.07
+Sefoksitin natrium 	0.09
+Sefotaksim natrium 	0.08
+Seforanida	0.06
+Seftazidim pentahidrat 	0.042
+Seftizoksim natrium 	0.08
+Seftriakzon natrium 	0.07
+Sefuroksim natrium 	0.07
+Sekobarbital natrium 	0.13
+Strimonium bromida 	0.05
+Siklizin hidroklorida 	0.115
+Siklofosfamida	0.06
+Siklometikain sulfat 	0.07
+Siklopentamin hidroklorida 	0.2
+Siklopentolat hidroklorida 	0.11
+Sinefrin tartrat 	0.09
+Sitarabin	0.06
+Skopolamin hidrobromida 	0.06
+Skopolamin metil nitrat 	0.09
+Sorbitol hemihidrat 	0.09
+Spartein sulfat	0.05
+Spektinomisin hidroklorida	0.09
+Stibamin glukosida	0.07
+Stibofen	0.1
+Streptomisin hidroklorida	0.09
+Streptomisin sulfat	0.03
+Streptozosin	0.07
+Strikhnin hidroklorida	0.09
+Strikhnin nitrat	0.06
+Sukrosa	0.04
+Suksinilkolin klorida	0.11
+Sulbaktam natrium	0.14
+Sulfadiazin natrium	0.13
+Sulfamerazin natrium	0.13
+Sulfametazin natrium	0.12
+Sulfapiridin natrium	0.13
+Sulfatiazol natrium	0.12
+Sulfisoksazol dietanolamin 	0.1
+Sulfobromoftalein natrium 	0.03
+Suramin natrium 	0.05
+Tembaga(II) sulfat 	0.09
+Tembaga(II) sulfat, anhidrat 	0.15
+Teofilin 	0.053
+Teofilin natrium glisinat 	0.18
+Terbutalin sulfat 	0.08
+Tetraetilamonium bromida 	0.18
+Tetraetilamonium klorida 	0.19
+Tetrahidrazolin hidroklorida 	0.16
+Tetrakain hidroklorida 	0.1
+Tetrasiklin hidroklorida 	0.07
+Tiamin hidroklorida 	0.13
+Tietilperazin maleat 	0.05
+Tiflupromazin hidroklorida	0.05
+Timolol maleat 	0.07
+Tiopental natrium 	0.15
+Tiopropazat dihidroklorida	0.09
+Tioridazin hidroklorida	0.02
+Tiosianat natrium	0.41
+Tiotepa	0.09
+Tobramin	0.03
+Tolazolin hidroklorida	0.19
+Tribromoetanol	0.03
+Tridiheksetil klorida	0.09
+Trietanolamin	0.12
+Trifluoperazin dihidroklorida	0.1
+Trimeprazin tartrat	0.03
+Trimetadion	0.13
+Trimetafan kamsilat	0.06
+Trimetobenzamida hidroklorida	0.06
+Trinatrium edetat (monohidrat)	0.15
+Triparsamida	0.11
+Tripelenamin hidroklorida	0.17
+Trometamin	0.15
+Tropakokain hidroklorida	0.14
+Tropikamida	0.05
+Tuaminohepatana sulfat	0.15
+Tubokurarin klorida	0.07
+Urea	0.3
+Uretan	0.17
+Uridin	0.06
+Valetamat bromida	0.08
+Vankomisin hidroklorida	0.02
+Verapamil hidroklorida	0.07
+Vinbarbital natrium	0.14
+Vindesin sulfat	0.04
+Viomisin sulfat	0.04
+Warfarin natrium	0.09
+Xilometazolin hidroklorida	0.12
+Zink klorida	0.1
+Zink p-fenosulfonat	0.35
+Zink sulfanilat	0.12
+Zink sulfat	0.08
+Zink sulfat, kering	0.13
