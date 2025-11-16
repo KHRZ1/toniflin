@@ -28,22 +28,22 @@ ToniFlin is an open-source Android application designed to adjust ingredient lev
 
 # Statement of need
 
-Tonicity is a critical parameter in pharmaceutical formulations, particularly for parenteral products, as deviations from isotonic conditions can cause pain, irritation, or cellular damage (Goldman, 2017; Weiss \& Weiss, 1990). While existing methods—such as the White-Vincent dilution approach—can adjust hypotonic formulations, they provide limited solutions for hypertonic cases, often resulting in impractically large or unstable volumes (Travagli, 2018). Despite the clinical and educational importance of mastering isotonic adjustment, no accessible tool currently integrates theoretical equations with practical application for this purpose.
+Tonicity is a critical parameter in pharmaceutical formulations, particularly for parenteral products, as deviations from isotonic conditions can cause pain, irritation, or cellular damage [@Goldman2017; @Weiss1990). While existing methods—such as the White-Vincent dilution approach—can adjust hypotonic formulations, they provide limited solutions for hypertonic cases, often resulting in impractically large or unstable volumes [@Travagli2018]. Despite the clinical and educational importance of mastering isotonic adjustment, no accessible tool currently integrates theoretical equations with practical application for this purpose.
 
-ToniFlin addresses this gap by providing an Android-based application that automatically performs isotonic adjustments through ingredient-level recalculations based on the cryoscopic method (Umar et al., 2019). It enables pharmacists, students, and researchers to efficiently design, analyze, and optimize isotonic formulations, eliminating manual computation errors and enhancing understanding of tonicity control in parenteral preparations.
+ToniFlin addresses this gap by providing an Android-based application that automatically performs isotonic adjustments through ingredient-level recalculations based on the cryoscopic method [@Umar2019]. It enables pharmacists, students, and researchers to efficiently design, analyze, and optimize isotonic formulations, eliminating manual computation errors and enhancing understanding of tonicity control in parenteral preparations.
 
 # Mathematical Basis for Isotonic Adjustment
 
-The calculation method in ToniFlin is based on the cryoscopic principle, which relates the freezing point depression ($\Delta T_f$) of a solution to its solute concentration (Churakova et al., 2019; Li et al., 2017). For a mixture of ingredients, isotonicity is achieved when the total freezing point depression equals that of blood ($ \Delta T_f = 0.52\:^{\circ}\mathrm{C} $ at 0.9% NaCl) (Kamat \& DeLuca, 2019; Savva, 2019). The isotonic condition is expressed as:
+The calculation method in ToniFlin is based on the cryoscopic principle, which relates the freezing point depression ($\Delta T_f$) of a solution to its solute concentration [@Churakova2019; @Li2017]. For a mixture of ingredients, isotonicity is achieved when the total freezing point depression equals that of blood ($\Delta T_f = 0.52\:^{\circ}\mathrm{C}$ at 0.9% NaCl) [@Kamat2019; @Savva2019]. The isotonic condition is expressed as:
 
 \begin{equation}\label{eq:isotonicity}
-\sum_{n}\left[\Delta Tf_i \times C_i\right] &= 0.52
+\sum_{n}\left[\Delta Tf_i \times C_i\right] = 0.52
 \end{equation}
 
 where $\Delta T f_i$ is the freezing point depression per 1% concentration of the i-th ingredient, and $C_i$ is its isotonic concentration in percentage. Based on \autoref{eq:isotonicity}, we can calculate the volume of the formulation that has been made isotonic by the ingredients, $V_{iso}$ and the remaining volume that is not yet isotonic, $V_{niso}$. We first note that ingredient isotonic concentration $C_i$ is related to its isotonic mass $Q_i$ and volume $V_{iso}$ via the relation,
 
 \begin{equation}\label{eq:Ci}
-C_i &= Q_i \times \frac{100}{V_{\mathrm{iso}}}
+C_i = Q_i \times \frac{100}{V_{\mathrm{iso}}}
 \end{equation}
 
 Plug \autoref{eq:Ci} into \autoref{eq:isotonicity} to find,
@@ -69,13 +69,13 @@ where we designate $V_0$ as the initial total volume. $V_{niso}$ is then calcula
 Furthermore, we can determine the respective amounts of each ingredient required to isotonicize $V_{niso}$ using the equation,
 
 \begin{equation}\label{eq:isoadjust}
-C_i \times V_i &= C_{0i} \times V_0,
+C_i \times V_i = C_{0i} \times V_0,
 \end{equation}
 
 where $C_i$ is isotonic concentration, $C_{0i}$ is the initial concentration of the i-th ingredient.  Using \autoref{eq:viso2}, we can write \autoref{eq:isoadjust} as
 
 \begin{equation}\label{eq:finalCi}
-C_i &= \frac{C_{0i}}{1.92\displaystyle\sum_{n}\big[\Delta Tf_i\times C_i\big]}
+C_i = \frac{C_{0i}}{1.92\displaystyle\sum_{n}\big[\Delta Tf_i\times C_i\big]}
 \end{equation}
 
 # Major Features
