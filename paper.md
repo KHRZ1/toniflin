@@ -34,49 +34,49 @@ ToniFlin addresses this gap by providing an Android-based application that autom
 
 # Mathematical Basis for Isotonic Adjustment
 
-The calculation method in ToniFlin is based on the cryoscopic principle, which relates the freezing point depression ($\\Delta T\_f$) of a solution to its solute concentration (Churakova et al., 2019; Li et al., 2017). For a mixture of ingredients, isotonicity is achieved when the total freezing point depression equals that of blood ($\\Delta T\_f = 0.52^\\circ \\mathrm{C}$ at 0.9% NaCl) (Kamat \& DeLuca, 2019; Savva, 2019). The isotonic condition is expressed as:
+The calculation method in ToniFlin is based on the cryoscopic principle, which relates the freezing point depression ($\Delta T_f$) of a solution to its solute concentration (Churakova et al., 2019; Li et al., 2017). For a mixture of ingredients, isotonicity is achieved when the total freezing point depression equals that of blood ($ \Delta T_f = 0.52\:^{\circ}\mathrm{C} $ at 0.9% NaCl) (Kamat \& DeLuca, 2019; Savva, 2019). The isotonic condition is expressed as:
 
-$$
+\begin{equation}\label{eq:fourier}
+\sum_{n}\left[\Delta Tf_i \times C_i\right] &= 0.52
+\end{equation}
 
-\\sum\_i (\\Delta T\_{f,i} \\times C\_i) = 0.52
+where $\Delta T f_i$ is the freezing point depression per 1% concentration of the i-th ingredient, and $C_i$ is its isotonic concentration in percentage. Based on Eq. 1, we can calculate the volume of the formulation that has been made isotonic by the ingredients, $V_{iso}$ and the remaining volume that is not yet isotonic, $V_{niso}$. We first note that ingredient isotonic concentration $C_i$ is related to its isotonic mass $Q_i$ and volume $V_{iso}$ via the relation,
 
-$$
+\begin{equation}\label{eq:fourier}
+C_i &= Q_i \times \frac{100}{V_{\mathrm{iso}}}
+\end{equation}
 
-where $\\Delta T\_{f,i}$ is the freezing point depression per 1% concentration of the i-th ingredient, and $C\_i$ is its concentration in percentage.
+Plug Eq. 2 into Eq. 1 to find,
 
-Each ingredient concentration is related to its mass ($m\_i$) and solution volume ($V$) by:
+\begin{equation}\label{eq:fourier}
+\frac{100}{V_{iso}}\sum_n\bigl[\Delta Tf_i \times Q_i\bigr]=0.52.
+\end{equation}
 
-$$
+Solving for $V_{iso}$ yields:
 
-C\_i = \\frac{m\_i}{V}
+\begin{equation}\label{eq:fourier}
+V_{iso} = 192 \sum_n \left[ \Delta Tf_i \times Q_i \right]
+\end{equation}
 
-$$
+and using Eq. 2 in Eq. 4 allows us to write $V_{iso}$ as
 
-Substituting Equation (2) into Equation (1) gives:
+\begin{equation}\label{eq:fourier}
+V_{iso} = 1.92V_0 \sum_{n}\left[ \Delta Tf_i \times C_i \right]
+\end{equation}
 
-$$
+where we designate $V_0$ as the initial total volume. $V_{niso}$ is then calculated as the difference between $V_0$ and $V_{iso}$. 
 
-\\sum\_i \\left(\\Delta T\_{f,i} \\times \\frac{m\_i}{V}\\right) = 0.52
+Furthermore, we can determine the respective amounts of each ingredient required to isotonicize $V_{niso}$ using the equation,
 
-$$
+\begin{equation}\label{eq:fourier}
+C_i \times V_i &= C_{0i} \times V_0,
+\end{equation}
 
-Solving for $V$ yields:
+where $C_i$ is isotonic concentration, $C_{0i}$ is the initial concentration of the i-th ingredient.  Using Eq. 5, we can write Eq. 6 as
 
-$$
-
-V = \\frac{\\sum\_i (\\Delta T\_{f,i} \\times m\_i)}{0.52}
-
-$$
-
-The difference between the total volume ($V\_t$) and the isotonic volume ($V$) determines the non-isotonic portion of the formulation. To isotonicize this remaining fraction, the concentration of each adjustable ingredient is modified using:
-
-$$
-
-C\_{i,adj} = C\_{i,init} \\times \\frac{V\_t}{V}
-
-$$
-
-where $C\_{i,adj}$ and $C\_{i,init}$ represent the adjusted and initial concentrations, respectively. These equations were implemented algorithmically in ToniFlin to automatically correct hypertonic or hypotonic formulations while maintaining each ingredient’s functional range.
+\begin{equation}\label{eq:fourier}
+C_i &= \frac{C_{0i}}{1.92\displaystyle\sum_{n}\big[\Delta Tf_i\times C_i\big]}
+\end{equation}
 
 # Major Features
 
